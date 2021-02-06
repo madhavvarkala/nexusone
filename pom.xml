@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://34.68.8.94:8081/repository/sample-release/</url>
+            <url>http://3.14.135.32:8081/repository/gstech/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://34.68.8.94:8081/repository/sample-snapshot/</url>
+            <url>http://3.14.135.32:8081/repository/gstech/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
